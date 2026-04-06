@@ -131,6 +131,17 @@
 		},
 		{
 			"@type": "Role",
+			"roleName": "Teacher, Introduction to Orthodoxy",
+			"startDate": "2007",
+			"description": "Volunteer instruction on theology, traditions, and culture of Eastern Orthodox Christianity for inquirers and the faithful",
+			"worksFor": {
+				"@type": "Organization",
+				"name": "Greek Orthodox Cathedral of the Annunciation",
+				"sameAs": "https://www.annunciation.org"
+			}
+		},
+		{
+			"@type": "Role",
 			"roleName": "Web Designer",
 			"startDate": "2015",
 			"worksFor": {
@@ -383,7 +394,8 @@
 					"price": "0",
 					"priceCurrency": "USD",
 					"url": "https://github.com/agkozak/zcomet"
-				}
+				},
+				"sameAs": "https://zcomet.io"
 			},
 			{
 				"@type": "SoftwareApplication",
@@ -414,6 +426,22 @@
 					"priceCurrency": "USD",
 					"url": "https://github.com/agkozak/polyglot"
 				}
+			},
+			{
+				"@type": "SoftwareApplication",
+				"url": "https://agkozak.github.io/78curves/",
+				"name": "78curves",
+				"description": "Real-time 78 rpm equalization curves for Equalizer APO",
+				"dateCreated": "2020",
+				"operatingSystem": "Windows",
+				"applicationCategory": "audio tool",
+				"offers": {
+					"@type": "Offer",
+					"price": "0",
+					"priceCurrency": "USD",
+					"url": "https://agkozak.github.io/78curves/"
+				},
+				"sameAs": "https://github.com/agkozak/78curves"
 			}
 		]
 	}
