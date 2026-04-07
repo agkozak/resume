@@ -1,4 +1,3 @@
-```json
 {
 	"@context": "https://schema.org/",
 	"@type": "Person",
@@ -306,9 +305,6 @@
 				"@type": "Book",
 				"@id": "https://doi.org/10.5281/zenodo.4939404",
 				"name": "Monarch of the Microphone: A Maurice Elwin Discography",
-				"author": {
-					"@id": "https://www.agkozak.com"
-				},
 				"identifier": [
 					{
 						"@type": "PropertyValue",
@@ -322,9 +318,6 @@
 				"@type": "Book",
 				"@id": "https://doi.org/10.5281/zenodo.14669520",
 				"name": "Up in the Clouds: A Betty Bolton Discography",
-				"author": {
-					"@id": "https://www.agkozak.com"
-				},
 				"identifier": [
 					{
 						"@type": "PropertyValue",
@@ -338,9 +331,6 @@
 				"@type": "Book",
 				"@id": "https://doi.org/10.5281/zenodo.7443923",
 				"name": "Too Romantic: An Anne Lenner Discography",
-				"author": {
-					"@id": "https://www.agkozak.com"
-				},
 				"identifier": [
 					{
 						"@type": "PropertyValue",
@@ -354,9 +344,6 @@
 				"@type": "Book",
 				"@id": "https://doi.org/10.5281/zenodo.3753041",
 				"name": "Croonette: An Elsie Carlisle Discography",
-				"author": {
-					"@id": "https://www.agkozak.com"
-				},
 				"identifier": [
 					{
 						"@type": "PropertyValue",
@@ -442,8 +429,31 @@
 					"url": "https://agkozak.github.io/78curves/"
 				},
 				"sameAs": "https://github.com/agkozak/78curves"
+			},
+			{
+				"@type": "WebSite",
+				"url": "https://www.elsiecarlisle.com",
+				"name": "Elsie Carlisle",
+				"description": "Research website devoted to the British dance band singer Elsie Carlisle"
+			},
+			{
+				"@type": "WebSite",
+				"url": "https://mauriceelwin.com",
+				"name": "Maurice Elwin",
+				"description": "Research website devoted to the British dance band singer Maurice Elwin"
+			},
+			{
+				"@type": "WebSite",
+				"url": "https://annelenner.com",
+				"name": "Anne Lenner",
+				"description": "Research website devoted to the British dance band singer Anne Lenner"
+			},
+			{
+				"@type": "WebSite",
+				"url": "https://bettybolton.co.uk",
+				"name": "Betty Bolton",
+				"description": "Research website devoted to the British dance band singer Betty Bolton"
 			}
 		]
 	}
 }
-```
