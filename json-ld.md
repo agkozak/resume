@@ -8,7 +8,10 @@
 	"additionalName": "George",
 	"familyName": "Kozak",
 	"honorificSuffix": "MA",
-	"alternateName": "Alexandros Kozak",
+	"alternateName": [
+		"Alexandros Kozak",
+		"Alexandros Kozák"
+	],
 	"gender": "https://schema.org/Male",
 	"nationality": {
 		"@type": "Country",
@@ -352,6 +355,72 @@
 					}
 				],
 				"sameAs": "https://www.elsiecarlisle.com/elsie-carlisle-discography/"
+			},
+			{
+				"@type": "ScholarlyArticle",
+				"name": "Elsie Carlisle: Recording Actress",
+				"author": {
+					"@type": "Person",
+					"name": "Alexandros Kozák"
+				},
+				"datePublished": "2016",
+				"pagination": "20–28",
+				"isPartOf": {
+					"@type": "PublicationIssue",
+					"issueNumber": "4",
+					"isPartOf": {
+						"@type": "PublicationVolume",
+						"volumeNumber": "3",
+						"isPartOf": {
+							"@type": "Periodical",
+							"name": "The Discographer Magazine"
+						}
+					}
+				}
+			},
+			{
+				"@type": "ScholarlyArticle",
+				"name": "Elsie Carlisle's Top Hits, Then and Now",
+				"author": {
+					"@type": "Person",
+					"name": "Alexandros Kozák"
+				},
+				"datePublished": "2014",
+				"pagination": "8–15",
+				"isPartOf": {
+					"@type": "PublicationIssue",
+					"issueNumber": "3",
+					"isPartOf": {
+						"@type": "PublicationVolume",
+						"volumeNumber": "2",
+						"isPartOf": {
+							"@type": "Periodical",
+							"name": "The Discographer Magazine"
+						}
+					}
+				}
+			},
+			{
+				"@type": "ScholarlyArticle",
+				"name": "Elsie Carlisle's 'My Man o' War' (Dominion C 307 & Filmophone 143)",
+				"author": {
+					"@type": "Person",
+					"name": "Alexandros Kozák"
+				},
+				"datePublished": "2014",
+				"pagination": "8–12",
+				"isPartOf": {
+					"@type": "PublicationIssue",
+					"issueNumber": "6",
+					"isPartOf": {
+						"@type": "PublicationVolume",
+						"volumeNumber": "1",
+						"isPartOf": {
+							"@type": "Periodical",
+							"name": "The Discographer Magazine"
+						}
+					}
+				}
 			},
 			{
 				"@type": "SoftwareApplication",
