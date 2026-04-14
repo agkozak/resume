@@ -1,3 +1,4 @@
+```
 {
 	"@context": "https://schema.org/",
 	"@type": "Person",
@@ -526,3 +527,4 @@
 		]
 	}
 }
+```
