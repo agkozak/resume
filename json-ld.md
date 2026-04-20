@@ -63,18 +63,6 @@
 				"sameAs": "https://en.wikipedia.org/wiki/University_of_California,_Berkeley"
 			},
 			"dateCreated": "2000"
-		},
-		{
-			"@type": "EducationalOccupationalCredential",
-			"name": "Prompt Engineering for ChatGPT",
-			"credentialCategory": "certificate",
-			"recognizedBy": {
-				"@type": "CollegeOrUniversity",
-				"name": "Vanderbilt University",
-				"sameAs": "https://en.wikipedia.org/wiki/Vanderbilt_University"
-			},
-			"url": "https://www.coursera.org/account/accomplishments/records/ZEFE7269SN9N",
-			"dateCreated": "2024"
 		}
 	],
 	"worksFor": [
