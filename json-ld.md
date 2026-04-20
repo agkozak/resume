@@ -160,73 +160,10 @@
 		},
 		{
 			"@type": "Role",
-			"roleName": "Office Manager and Executive Assistant",
+			"roleName": "Corporate Account Manager / Corporate Trade Broker",
 			"startDate": "2009",
 			"endDate": "2009",
-			"worksFor": {
-				"@type": "Organization",
-				"name": "BizX",
-				"address": {
-					"@type": "PostalAddress",
-					"addressLocality": "Oakland",
-					"addressRegion": "CA",
-					"addressCountry": "USA"
-				}
-			}
-		},
-		{
-			"@type": "Role",
-			"roleName": "Corporate Account Manager",
-			"startDate": "2008",
-			"endDate": "2009",
-			"worksFor": {
-				"@type": "Organization",
-				"name": "BizX",
-				"address": {
-					"@type": "PostalAddress",
-					"addressLocality": "Oakland",
-					"addressRegion": "CA",
-					"addressCountry": "USA"
-				}
-			}
-		},
-		{
-			"@type": "Role",
-			"roleName": "Corporate Trade Broker",
-			"startDate": "2007",
-			"endDate": "2008",
-			"worksFor": {
-				"@type": "Organization",
-				"name": "BizX",
-				"address": {
-					"@type": "PostalAddress",
-					"addressLocality": "Oakland",
-					"addressRegion": "CA",
-					"addressCountry": "USA"
-				}
-			}
-		},
-		{
-			"@type": "Role",
-			"roleName": "Office Coordinator",
-			"startDate": "2007",
-			"endDate": "2007",
-			"worksFor": {
-				"@type": "Organization",
-				"name": "BizX",
-				"address": {
-					"@type": "PostalAddress",
-					"addressLocality": "Oakland",
-					"addressRegion": "CA",
-					"addressCountry": "USA"
-				}
-			}
-		},
-		{
-			"@type": "Role",
-			"roleName": "Director of First Impressions",
-			"startDate": "2006",
-			"endDate": "2007",
+			"description": "Used barter financing to buy media for travel, hospitality, and entertainment companies and to bring media companies new advertisers; brokered deals between a wide variety of companies; served as a liaison for trade exchanges and corporate barter firms; helped companies to offset marketing expenses by monetizing excess capacity and distressed inventories; also served in office operations and executive support roles",
 			"worksFor": {
 				"@type": "Organization",
 				"name": "BizX",
