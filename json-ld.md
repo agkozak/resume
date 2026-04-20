@@ -101,6 +101,16 @@
 		},
 		{
 			"@type": "Role",
+			"roleName": "Open-Source Developer",
+			"startDate": "2017",
+			"worksFor": {
+				"@type": "Organization",
+				"name": "Independent",
+				"sameAs": "https://github.com/agkozak"
+			}
+		},
+		{
+			"@type": "Role",
 			"roleName": "Assistant Chanter",
 			"startDate": "2011",
 			"endDate": "2012",
