@@ -195,7 +195,7 @@
 	"jobTitle": [
 		"discographer",
 		"Greek Orthodox chanter",
-		"software developer",
+		"open-source developer",
 		"web designer",
 		"author",
 		"teacher"
