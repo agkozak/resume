@@ -229,15 +229,6 @@
 		"Hoopes Prize",
 		"Honorary Mellon Fellowship in Humanistic Studies"
 	],
-	"skills": [
-		"shell",
-		"Zsh",
-		"PHP",
-		"HTML",
-		"CSS",
-		"WordPress",
-		"Jekyll"
-	],
 	"@reverse": {
 		"creator": [
 			{
